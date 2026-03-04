@@ -28,7 +28,6 @@ This app takes employee data through a clean front-end UI, applies a trained mod
 
 ## 📊 Model Performance & Accuracy
 After experimenting with multiple machine learning models and tuning the hyperparameters, I finalized the best-performing model based on overall performance and stability.
-Accuracy: ~ __%
-Precision: __%
-Recall: __%
-F1-Score: __%
+~ Precision: 0.80%
+~ Recall: 0.97%
+~ F1-Score: 0.88%
