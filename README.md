@@ -31,3 +31,6 @@ After experimenting with multiple machine learning models and tuning the hyperpa
 ~ Precision: 0.80%
 ~ Recall: 0.97%
 ~ F1-Score: 0.88%
+
+## Dashboard Preview
+<img src = "https://github.com/mahak-solanki/Employee-Churn-Prediction-App/blob/main/Screenshot%202026-03-13%20150057.png" />
